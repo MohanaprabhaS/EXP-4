@@ -1,6 +1,7 @@
 # EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
+
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
 COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
@@ -68,6 +69,12 @@ Half Rectifier without filter:
 Half rectifier with Filter:
 
 <img width="1381" height="877" alt="image" src="https://github.com/user-attachments/assets/aeac8940-aa83-4440-80cb-cbe23c24a947" />
+
+
+Bridge rectifier with filter:
+
+<img width="1374" height="878" alt="image" src="https://github.com/user-attachments/assets/57eec604-ee11-49bd-aea1-3611ea286cf0" />
+
 
 
 
