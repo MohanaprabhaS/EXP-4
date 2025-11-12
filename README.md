@@ -1,6 +1,7 @@
 # EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
-
+## Name: Mohanaprabha S
+## Register no: 212224040197
 
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
@@ -35,30 +36,52 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+## Half wave and Full wave rectifier:
 
-Half wave rectifier with filter:
+
+<img width="656" height="927" alt="image" src="https://github.com/user-attachments/assets/873e3c65-4020-48bc-8537-86eed4a8b84a" />
+
+
+<img width="660" height="934" alt="image" src="https://github.com/user-attachments/assets/ae84da83-4347-487f-8694-2a931863c6f3" />
+
+
+<img width="659" height="933" alt="image" src="https://github.com/user-attachments/assets/896c9037-dd24-4fac-ac7c-ee7f4713ec3f" />
+
+
+<img width="658" height="936" alt="image" src="https://github.com/user-attachments/assets/f5990d2d-79f5-456d-abf1-06e4cc6ac0b8" />
+
+
+<img width="659" height="933" alt="image" src="https://github.com/user-attachments/assets/82b7ec0e-4cf9-4c7b-9882-4ce240d69fe5" />
+
+
+<img width="653" height="845" alt="image" src="https://github.com/user-attachments/assets/fcda4390-939f-4652-9536-73ba13457d1a" />
+
+
+## CIRCUIT DIAGRAMS
+
+## Half wave rectifier with filter:
+
 
 <img width="1301" height="855" alt="image" src="https://github.com/user-attachments/assets/f2c827bc-f848-4800-a868-1b166761a4e8" />
 
 
-Bridge rectifier with filter:
+## Bridge rectifier with filter:
+
 
 <img width="1225" height="852" alt="image" src="https://github.com/user-attachments/assets/d5040295-7978-45b2-845d-3bdb662540b6" />
 
 
-
-Half Rectifier without filter:
+## Half Rectifier without filter:
 
 <img width="1158" height="825" alt="image" src="https://github.com/user-attachments/assets/192d25cb-6e49-4b69-8ead-1696bb5062f0" />
 
 
-Bridge Rectifier without filter:
+## Bridge Rectifier without filter:
 
 <img width="998" height="595" alt="image" src="https://github.com/user-attachments/assets/3bd82470-eb91-428d-a26d-e4884746b913" />
 
 
-WAVEFORM:
+## WAVEFORM:
 
 Half Rectifier without filter:
 
@@ -66,12 +89,12 @@ Half Rectifier without filter:
 
 
 
-Half rectifier with Filter:
+## Half rectifier with Filter:
 
 <img width="1381" height="877" alt="image" src="https://github.com/user-attachments/assets/aeac8940-aa83-4440-80cb-cbe23c24a947" />
 
 
-Bridge rectifier with filter:
+## Bridge rectifier with filter:
 
 <img width="1374" height="878" alt="image" src="https://github.com/user-attachments/assets/57eec604-ee11-49bd-aea1-3611ea286cf0" />
 
